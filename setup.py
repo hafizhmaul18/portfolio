@@ -4,6 +4,8 @@ from typing import List
 def get_requirements(file_path:str)->List[str]:
     """
     This function returns the list of requirements
+
+    file path : sebuah path ke requirements.txt"
     """
     requirements=[]
     with open(file_path) as file_obj:
