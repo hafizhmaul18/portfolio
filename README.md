@@ -7,7 +7,7 @@ Data Enthusiast, Finance, Analyst
 A driven finance professional with a passion for data analytics and a strong foundation in Python, SQL, and data visualization tools. Seeking an internship in data analysis to apply my skills in extracting actionable insights and supporting decision-making processes.
 
 *   🌍  I'm based in Tangerang, Indonesia
-*   🖥️  See my portfolio at [MyProjects](http://https://github.com/hafizhmaul18/portfolio)
+*   🖥️  See my portfolio at [MyProjects](http://github.com/hafizhmaul18/portfolio)
 *   ✉️  You can contact me at [hafizhmaul18@gmail.com](mailto:hafizhmaul18@gmail.com)
 *   🧠  I'm learning Machine Learning
 *   🤝  I'm open to collaborating on Financial Analysis or Creating Machine Learning
